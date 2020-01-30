@@ -3,4 +3,7 @@ It is an event manager project developed during the college hackathon.It is made
 
 After cloning this code Kindly run the command "npm install" to install the node modules Then run the command "npm start" to start the local server.
 
-Tech Stack Used: Frontend :HTML,CSS,Bootstrap Backend:NodeJS Database:MongoDB
+Tech Stack Used:
+Frontend :HTML,CSS,Bootstrap
+Backend:NodeJS
+Database:MongoDB
