@@ -73,5 +73,5 @@ And finally the server will be loaded!
 # Author
 Satyam Chaudhary
 
-If you have any difficulty in building up the code in the repository,feel free to open the issue!
+If you have any difficulty in building up the code in the repository,feel free to open the issue or please mail me at 17157@iiitu.ac.in
 
