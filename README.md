@@ -11,6 +11,8 @@ You are going to need Node.js and npm installed on your machine.
 # Installation
 Follow the below steps to install and configure this repository to work on your machine.
 
+Step 0: Setup the MongoDB database.
+
 Step 1 : Clone the repository
 
          git clone "https://github.com/satyam3976/Procuratio.git"
